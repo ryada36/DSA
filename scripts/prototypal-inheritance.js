@@ -29,7 +29,7 @@
 
   const labrador = new Dog("Poodle", 4);
   const bulldog = new Dog("Bully", 4);
-  console.log("labrodor ..", labrador);
+  console.log("labrodor ...", labrador);
   console.log("labrodor ..", bulldog);
   console.log("labrodor constructor", labrador.constructor.name);
 })();
